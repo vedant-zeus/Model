@@ -1,0 +1,12 @@
+📌 Image Test Results - Legal Jargons Found:
+
+appeal → Request to a higher court to review and change a decision.
+arbitration → Alternative dispute resolution where neutral third party decides the case.
+citation → Official order to appear in court or pay fine.
+contract → Legally binding agreement between two or more parties.
+dispute → Legal disagreement between two or more parties.
+evidence → Facts, documents, or testimony presented in court to prove claims.
+jurisdiction → Legal authority of a court to hear and decide a case.
+petition → Formal written request submitted to a court seeking legal relief.
+tribunal → Special court or body established to decide specific disputes.
+writ → Formal written order issued by a court directing specific action.

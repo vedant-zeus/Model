@@ -1,0 +1,61 @@
+Vanguard Fire And General Insurance Co. ...
+versus Commissioner Of Income-Tax on 15 December, 1965 Vanguard Fire And General Insurance Co. ...
+versus Commissioner Of Income-Tax on 15 December, 1965 Equivalent citations:  1966 60ITR496(Supreme Court), AIRONLINE 1965 Supreme Court 3 Bench: J.C. Shah, K. Subba Rao, S.M. Sikri JUDGMENT Sikri, J. 1.
+These two appeals by special leave are directed against the judgment of the High Court of Judicature at Madras in a reference made to it by the Income-tax Appellate Tribunal under section 66(1) of the Indian Income-tax Act, 1922, hereinafter referred to as the Act.
+The following question of law was referred to the High Court : "Whether, on the facts and circumstances of the case, the rental income from the house property received by the assessee for the assessment years 1950-51 and 1951-52 is not exempt under section 4(3)(xii) of the Act notwithstanding section 10(7) of the Act ?"
+2.
+The relevant facts are as follows : The appellant, Vanguards Fire   General Insurance Co., hereinafter referred to as the assessee, carried on fire and general insurance business.
+It owned a building of which a part was occupied by the assessee for its own business, the rest being let out on rent.
+During the previous year ending December 31, 1949 (assessment year 1950-51), the assessee received a sum of Rs. 8,230 as rent on the portion let out.
+In the accounting year ending December 31, 1950 (assessment year 1951-52), the rent received amounted to Rs. 37,200.
+The Income-tax Officer in view of section 4(3)(xii) of the Act excluded these amounts from assessment.
+The Commissioner of Income-tax issued a notice to the assessee under Section 33B of the Act to show cause why the orders of the Income-tax Officer should not be modified so as to set right the error committed by the Income-tax Officer in excluding these sums from assessment.
+After hearing the assessee, he held that "it is only income which is chargeable under the head income from property which is entitled to the exemption laid down in this clause and not income chargeable under the Schedule in the case of insurance companies."
+The assessee appealed to the Income-tax Appellate Tribunal which upheld the order of the Commissioner of Income-tax.
+The Tribunal observed : "The exemption under section 4(3)(xii) is to the income received from property and as the income in the instance case is from insurance business, the assessee cannot lay claim to any exemption under this sub-section.
+Further the Schedule in dealing with life insurance makes some mention of income from property (section 9), while the absence of any such mention in general insurance is significant."
+Indian Kanoon - http: indiankanoon.org doc 1788095  1 Vanguard Fire And General Insurance Co. ...
+versus Commissioner Of Income-Tax on 15 December, 1965 3.
+At the instance of the assessee, the Appellate Tribunal stated a case and referred the question reproduced already.
+The High Court answered the question in the affirmative and against the assessee.
+4. Section 4(3)(xii) and section 10(7) of the Act read as follows : "4. (3) Any income, profits or against falling within the following classes shall not be included in the total income of the person receiving them....
+(xii) any income chargeable under the head 'income from property' in respect of a building, the erection of which is begun and completed between the 1st day of April, 1946, and the 31st day of March, 1956, both dates inclusive, for a period of two years from the date of such completion."
+"10. (7) Notwithstanding anything to the contrary contained in section 8, 9, 10, 12 or 18, the profits and gains of any business of insurance ands the tax payable thereon shall be computed in accordance with the rules contained in the Schedule to this Act."
+5.
+As the assessee carried on the business of insurance other than life insurance, paragraph 6 of the Schedule applies to it and is in the following terms : "The profits and gains of any business of insurance other than of insurance shall be taken to be the balance of the profits disclosed by the annual accounts, copies of whichever required under the Insurance Act, 1938, to be furnished to the Superintendent of Insurance after adjusting such balance so as to exclude from it any expenditure other than expenditure which may under the provisions of section 10 of this Act by allowed for in computing the profits and gains of a business.
+Profits and losses on the realisation of investments and depreciation and appreciation of the value of investments shall be dealt with as provided in rule 3 for the business of life insurance."
+6.
+Mr. S. Swaminathan, the learned counsel for the assessee, contends that by virtue of section 4(3)(xii), the income from property cannot be included in the total income of the assessee, and that section 10(7) does not exclude the applicability of section 4(3)(xii).
+He points out that section 10(7) opens with the words "notwithstanding anything to the contrary contained in section 8, 9, 10, 12 or 18".
+Thus the non-obstante clause does not include anything contained in sections 4 and 6.
+He further says that section 4(3)(xii) is applicable because although the income from property in the case of a general insurance company is computed in accordance with the Schedule, yet it is still chargeable under the head "income from property", and there is no practical difficulty in granting exemption to income falling under section 4(3)(xii).
+7.
+Mr. A. V. Viswanatha Sastri, the learned counsel for the revenue, contends that an insurance company is assessed on a national basis and the national figure arrived at in accordance with the Schedule cannot be varied by anything contained in section 4 of the Act.
+He contends that the Indian Kanoon - http: indiankanoon.org doc 1788095  2 Vanguard Fire And General Insurance Co. ...
+versus Commissioner Of Income-Tax on 15 December, 1965 income from property is not computed in accordance with section 9 and is not chargeable under the head "income from property" but is included and charged as a composite thing, i.e., the profits and gains of the business of insurance.
+8.
+This court had occasion to consider section 10(7) of the Act and the Schedule in two cases.
+In Life Insurance Corporation of India v. Commissioner of Income-tax the court held that "the assessment of the profits of an insurance business is completely governed by the rules in the Schedule to the Income-tax Act and the Income-tax Officer has not power to do anything not contained in it; there is no general right to correct the errors in the accounts of an insurance business."
+In Pandyan Insurance Co. v. Commissioner of Income-tax the court examined the scheme of the Insurance Act and came to the concussion that the Insurance Act made detailed provisions to ensure the true valuation of assets and the determination of the true balance of profits of an insurance business.
+The court further held that rule 3(b) of the Schedule did not empower the Income-tax Officer to adjust the accounts on the basis of a revaluation made by him or to correct the discrepancy between what was entered in the accounts and what was fact.
+9.
+It seems to us that insurance companies are assessed on a special basis, though the special basis is different for life insurance companies and companies carrying on general insurance business.
+In the case of life insurance business, while defining "gross external incomings" in paragraph 5 of the Schedule, it is provided that "incomings, including the annual value of the property occupied by the assessee, which but for the provisions of sub-section (7) of section 10 would have been assessable under section 9, shall be computed upon the basis laid downs dint he last-named section, and that there shall be allowed room such gross incomings such deductions as are permissible under that section", but their is not mention of income from property in paragraph 6 of the Schedule.
+The form of revenue account applicable to fire insurance business, marine insurance and miscellaneous insurance business contains the items on the right side "Interest, Dividends and Rents, less income-tax thereon."
+Presumably, the rents here would be actual rents received, and not annual value as determined under section 9. 10.
+The Privy Council had to deal with a similar problem in Commissioner of Income-tax v. Western India Life Insurance Co. Limited.
+The Privy Council held that the third proviso to section 4(1) of the Indian Income-tax Act, 1922, which provided that "if in any year the amount of income accruing or arising without British India exceeds the amount brought into British India in that year, there shall not be included in the assessment of the income of that year so much of such excess as does not exceed four thousand five hundred rupees", did not apply to an assessment of the profits and gains of a life insurance business under rule 2(b) of the Schedule to the Indian Income-tax Act, 1922.
+The Privy Council observed : "The case of Inland, Revenue Commissioners v. Australian Mutual Provident Society was decided upon provisions of the British Income Tax Act of 1918, which are not the same as the proviso to section 4 of the Act now in question but the case does draw attention to the distinction between an assessment upon actual income and an assessment upon a notional income and in so far as an average derived from a triennial period is the basis for computation of the income of one year in this Act the Indian Kanoon - http: indiankanoon.org doc 1788095  3 Vanguard Fire And General Insurance Co. ...
+versus Commissioner Of Income-Tax on 15 December, 1965 case has an important bearing.
+But apart form authority, their Lordships are of opinion that the appellant's contention is correct and they find it impossible to apply the words o the third proviso to section 4(1) to an assessment under rule 2(b) of the Schedule...." 11.
+In our opinion, it is equally impossible to apply the provisions of section 4(3)(xii) to an assessment made under section 10(7), read with paragraph 6 of the Schedule.
+There is no income chargeable under the heads "Income from property" as far as a general insurance business is concerned.
+The effect of section 10(7) is to delete the heads "Interest on securities", "Income from property" and "Income from other sources" from section 6 of the Act, as far as general insurance businesses are concerned.
+12.
+The Bombay High Court came to the same conclusion as we have done in Commissioner of Income-tax v. Asian Assurance Co. 13.
+We agree with the High Court that the answer to the question must be in the affirmative and against the assessee.
+The appeals fail and are dismissed with costs.
+One hearing fee.
+14.
+Appeals dismissed.
+Indian Kanoon - http: indiankanoon.org doc 1788095  4

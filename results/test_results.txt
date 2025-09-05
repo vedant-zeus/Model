@@ -1,0 +1,21 @@
+📌 Test Results - Legal Jargons Found:
+
+File: 1950_Chief_Controlling_Revenue_vs_Maharashtra_Sugar_Mills_Ltd_on_27_May_1950_1.segmented.txt
+   appeal → Request to a higher court to review and change a decision.
+   breach → Violation of law, duty, or contract terms.
+   brief → Written legal argument submitted to a court outlining case details.
+   citation → Official order to appear in court or pay fine.
+   consideration → Something of value exchanged to form a valid legal contract.
+   evidence → Facts, documents, or testimony presented in court to prove claims.
+   grievance → Formal complaint raised about injustice or unfair treatment.
+   hearing → Formal court session for argument, testimony, or evidence presentation.
+   injunction → Court order requiring a party to do or stop doing something.
+   jurisdiction → Legal authority of a court to hear and decide a case.
+   liable → Legally responsible for actions, damages, or obligations under law.
+   mortgage → Loan agreement where property is pledged as security.
+   petition → Formal written request submitted to a court seeking legal relief.
+   statutory → Defined, regulated, or authorized by legislation or written statutes.
+   venue → Geographic location where a legal case is heard or tried.
+   writ → Formal written order issued by a court directing specific action.
+   writ of certiorari → Supreme Court order to review a lower court’s decision.
+

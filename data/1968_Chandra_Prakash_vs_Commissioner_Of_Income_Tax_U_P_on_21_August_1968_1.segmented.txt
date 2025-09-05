@@ -1,0 +1,82 @@
+Chandra Prakash versus Commissioner Of Income-Tax, U.P. on 21 August, 1968 Chandra Prakash versus Commissioner Of Income-Tax, U.P. on 21 August, 1968 Equivalent citations:  1969 72ITR389(Supreme Court), AIRONLINE 1968 Supreme Court 9 Bench: J.C. Shah, A.N. Grover JUDGMENT Grover, J. 1.
+The short point for determination in this appeal by certificate is whether in view of the provisions of the third proviso to Section 5 of the Excess Profits Tax Act, 1940 (XV of 1940), hereinafter called the Act, Section 10A of that Act can be made applicable to the case of an assessee who had his head office in the taxable territories but had also started a new business in an Indian State which was not within the taxable territories.
+2.
+The assessee, who is the appellant, carried on cloth business on wholesale basis having its head office at Farrukhabad and a branch at Ahmedabad under the name and style of Chandra Prakash Anand Prakash.
+During the chargeable accounting period from November 9, 1942, to October 28, 1943, the assesses started a new wholesale cloth business at Ratlam which was in an Indian State.
+That business was started with effect from March 8, 1943.
+the first accounting period of which was from that date to April 7, 1944.
+A profit, of Rs. 30,601 was determined for income-tax purposes for the aforesaid period, the assessment year being 1944-45.
+Since the profits of Ratlam business were to be computed for the period of March 8, 1943, to April 7, 1944, a proportionate profit for the chargeable accounting period from March 8, 1943, to October 28, 1943, was worked out, the amount coming to Rs. 19,578.
+The Excess Profits Tax Officer was of the view that the main purpose of starting the new business at Ratlam was to avoid excess profits tax liability.
+Therefore, under Section 10A of the Act he included the income from Ratlam business in the total income of the assessee for the purpose of excess profits tax.
+The assessee was the sole proprietor of the entire business in the taxable as well as non-taxable territories.
+Ordinarily he was liable to be assessed to excess profits tax on his total income from all the business under the second proviso to Section 2(5) of the Act.
+The third proviso to Section 5 of the Act, however, provided that any income which accrued or arose in an Indian State was exempt from excess profits tax.
+2.
+The conclusion of the Excess Profits Tax Officer was that the main purpose of starting the business at Ratlam was to take benefit of the third proviso to Section 5 for avoiding tax liability ; therefore, the starting of a business in an Indian State fell within the meaning of the expression "transaction" in Section 10A of the Act.
+The Income-tax Appellate Tribunal, to which an appeal was taken, held that, according to the third proviso to Section 5, the Act was not applicable to any business, the entire profits of which accrued or arose in an Indian State with the result that the Indian Kanoon - http: indiankanoon.org doc 1552705  1 Chandra Prakash versus Commissioner Of Income-Tax, U.P. on 21 August, 1968 profits of that business could not be included in the total computation of income of the assessee for the purpose of excess profits tax.
+The Commissioner of Income-tax asked for a reference to the High Court and the Tribunal referred the following two questions : " (i)
+Whether the starting of a business in an Indian State is a transaction within the meaning of Section 10A ?
+(ii) Whether, in view of the provisions of the third proviso to Section 5 of the Excess Profits Tax Act, the Tribunal was justified in holding that Section 10A does not apply to the case ? "
+3.
+The High Court answered the first question in the affirmative and the second question in the negative.
+It was of the view that the word " transaction" appearing in Section 10A had a very wide meaning and could be applied to any act done ia the carrying on of business.
+It agreed that the profits accruing in a Part B State were not subject to excess profits tax but was of the opinion that the law did not permit profits to be diverted from a taxable territory to a Part B State.
+The reasoning of the High Court was that, if a person who was not doing any business in a taxable territory opened a business in a Part B State, whatever profits he earned therefrom would be exempt from tax under the proviso but the case of a person who was carrying on business entirely in a taxable territory and who opened a branch in a Part B State and transferred some of his old business to it would be quite different.
+It was observed, inter alia, " the Act, including Section 10A applies to the business at Farrukhabad and Ahmedabad and when the amount of profits of the business carried on at these places is adjusted, Section 10A is applied to that business and not to the business carried on at Ratlam."
+4.
+The Act was enacted during the period of World War II and its preamble ran as follows : " Whereas it is expedient to impose a tax on excess profits arising out of certain businesses in the conditions prevailing during the present hostilities..." 5.
+The Act extended to the whole of British India (vide Section 1(2)).
+Section 5 provided : " This Act shall apply to every business of which any part of the profits made during the chargeable accounting period is chargeable to income-tax by virtue of the provisions of Sub-clause (i) or Sub-clause (ii) of Clause (b) of Sub-section (1) of Section 4 of the Indian Income-tax Act, 1922, or of Clause (c) of that sub-section :......
+Provided further that this Act shall not apply to any business the whole of the profits of which accrue or arise in an Indian State ; and where the profits of a part of a business accrue or arise in an Indian State, such part shall, for the purposes of this provision, be deemed to be a separate business the whole of the profits of which accrue or arise in an Indian State, and the other part of the business shall, for all the purposes of this Act, be deemed to be a separate business."
+Indian Kanoon - http: indiankanoon.org doc 1552705  2 Chandra Prakash versus Commissioner Of Income-Tax, U.P. on 21 August, 1968 6.
+Sub-section (1) of Section 10A was in the following terms : " Where the Excess Profits Tax Officer is of opinion that the main purpose for which any transaction or transactions was or were effected  whether before or after the passing of the Excess Profits Tax (Second Amendment) Act, 1941  was the avoidance or reduction of liability to excess profits tax, he may, with the previous approval of the Inspecting Assistant Commissioner, make such adjustments as respects liability to excess profits tax as he considers appropriate so as to counteract the avoidance or reduction of liability to excess profits tax which would otherwise be effected by the transaction or transactions."
+7.
+In Commissioner of Income-tax v. Ahmedbhai Umarbhai   Co.
+the assessee, a firm resident in British India (Bombay), carried on the business of manufacturing and selling groundnut oil.
+The firm owned three mills at Bombay and one at Raichur which was in Hyderabad State.
+In all these oil was manufactured.
+The oil that was manufactured at Raichur was sold partly there and partly in Bombay.
+The position of the assessee-firm was that in respect of such oil which was manufactured at Raichur it could not be assessed to tax under the Act.
+The taxing authorities rejected that contention and the Appellate Tribunal agreed with them.
+The High Court disagreed with the view of the Tribunal and upheld the assessee's contention.
+On appeal to this court the relevant provisions of the Act were examined including the third proviso to Section 5.
+It was held that the activity which the assessee-firm carried on at Raichur was a part of its business within the meaning of the third proviso to Section 5 and that the profits of a part of the business, namely, the manufacture of oil in the mill at Raichur, accrued or arose at Raichur and that such profits were not assessable to excess profits tax under the third proviso to Section 5.
+It is true that the provisions of Section 10A did not come up for consideration in that case and for that reason it may be distinguishable.
+But the importance of this decision is that the direct point for consideration was whether, on the facts of that case, the third proviso to Section 5 could be invoked by the assessee-firm and it was open to it to claim that the work of manufacture of oil carried on at Raichur should be treated as a separate business within the meaning of the proviso.
+The decision went in favour of the assessee on that point, it being held that the profits of the manufacturing part of the assessee's business had accrued and arose at Raichur and were thus covered by the proviso and could not be subjected to excess profits tax.
+8.
+In Sohan Pathak   Sons v. Commissioner of Income-tax, the assessee claimed, in the matter of assessment relating to the chargeable accounting period ending October 8, 1943, that there had been a partial partition among the members of the Hindu undivided family.
+The family as such had ceased to carry on the business after that date though they continued to remain joint in status.
+After the partial partition the adult members of the family had formed two partnerships admitting the minors to the benefits thereof and carried on the same business which was being carried on by the Hindu undivided family.
+The Excess Profits Tax Officer was of the opinion that the main purpose of the creation of two partnerships was to avoid or reduce the tax liability of the assessees to excess profits tax and he made adjustment under Section 10A by adding to the profits made by the family till the date of the partition the profits made by the two firms daring the chargeable accounting period.
+Having failed before the Appellate Assistant Commissioner and the Appellate Tribunal and Indian Kanoon - http: indiankanoon.org doc 1552705  3 Chandra Prakash versus Commissioner Of Income-Tax, U.P. on 21 August, 1968 on a reference to the High Court, the questions having been answered against the assessee, the matter was brought to this court.
+The conclusion of the High Court that the main purpose behind the partial partition and formation of the partnerships was the avoidance or reduction of the liability of the family business to excess profits tax was accepted by this court.
+It was held that, if a business had been discontinued and had earned no profit during the chargeable accounting period, no excess profits tax could be charged in respect of such business and that, under Section 4 read with Section 5, the business could not be regarded as one to which the Act applied.
+It was further laid down that Section 10A could have no application to such a business.
+The issue whether the Act applied or not to a particular business had to be determined solely with reference to Section 5 and Section 10A must be construed as applicable only to cases where, the business being found to be one to which the Act applied, a transaction of the kind referred to in the section had been effected.
+The following observations at pages 401 and 402 may be reproduced with advantage,  1953  24 I.T.R. 395 : " The learned Attorney-General conceded that, if a person who had been paying excess profits tax, transferred the business to a Part B State, it would not be competent for the Excess Profits Tax Officer to take action under Section 10A to make adjustments on the footing that the assessee continued to carry on his business in the same place as before such transfer, even if it was found that the transfer was effected for the main purpose of avoiding or reducing his liability to excess profits tax.
+In that case, the Attorney-General admitted, the officer would be running counter to the express prohibition contained in the proviso to Section 5 to which reference has be,en made and he did not challenge the correctness of a decision to that effect by the Bombay High Court (Commissioner of Excess Profits Tax v. Moholal Maganlal ).
+But we fail to appreciate the distinction in principle between that case and the present, for, to both alike, the Act is made inapplicable by Section 5.
+The reasoning of the learned judges in the Bombay case, namely, that if the Act is inapplicable to a particular business and there would thus be no liability to excess profits tax in respect of that business, no question could arise of avoiding or reducing any liability to excess profits tax under Section 10A, would equally apply to the present case and must lead to the same result."
+9. There can be no manner of doubt that in this decision this court approved of the view expressed in the Bombay case which can be most appositely applied to the present case.
+There the assessee was the selling agent of the Victoria and Jubilee Mills.
+He was also the selling agent of two mills working in the Baroda State.
+The assesses then floated a private limited company in the name of M. M. Shah Limited.
+in Baroda State in which all the shares were held by him and his wife.
+He resigned bis office of selling agents of the two mills in Baroda State and on the same date those two mills appointed M. M. Shah Limited.
+to be the selling agents of the mills.
+The Excess Profits Tax Officer added to the assessee's profits the profit derived from the selling agency business of the Baroda State mills.
+The finding of the department and of the Tribunal was that the assessee had transferred the selling agency to M. M. Shah Limited., with the main purpose of avoiding or reducing the liability of his business to pay in British India the excess profits tax.
+Chagla C.J., delivering the judgment of the court, observed that the charging section is Section 4, which speaks of charge of excess profits tax to any business to which the Act applies, and, in order to find out to which business the Act applies, the third proviso Indian Kanoon - http: indiankanoon.org doc 1552705  4 Chandra Prakash versus Commissioner Of Income-Tax, U.P. on 21 August, 1968 to Section 5 has to be read, and, since exemption from the operation of the Act is given to a business the whole of the profits of which accrue or arise in a Part B State, the business in Baroda State was exempted from tax under the Excess Profits Tax Act; in other words, the business was not a business to which the Act applied.
+The learned Chief Justice refuted the contention of Sri Nusserwanji P. Engineer based on Section 10A by saying " it is impossible to hold that by Section 10A the legislature intended to confer upon the Excess Profits Tax Officer the power in effect to repel the third proviso to Section 5, to rewrite Section 4, and to make a business, the profits of which accrued or arose in a Part B State, liable to payment of excess profits tax ".
+The argument that the assessee having adopted a device for the purpose of avoiding excess profits tax was also repelled on the reasoning that, if Section 10A could not override the third proviso to Section 5, the particular facts which led the Excess Profits Tax Officer to put Section 10A into operation were irrelevant.
+10.
+In the present case the High Court dissented from the Bombay decision in Commissioner of Excess Profits Tax v. Moholal Maganlal without appreciating that the view expressed therein had been approved by this court in the case of Sohan Pathak   Sons, even though the latter case was cited before the High Court and is referred to in its judgment.
+11.
+We are clearly of the view that in the presence of the third proviso to Section 5 of the Act, Section 10A could not be applied to the present case.
+The second question which was referred must, therefore, be answered in the affirmative, namely, in favour of the assessee and against the revenue.
+It is unnecessary to return any answer to the first question.
+12.
+The appeal is accordingly allowed with costs and the answers returned by the High Court are discharged.
+Indian Kanoon - http: indiankanoon.org doc 1552705  5
